@@ -1,9 +1,0 @@
-terialApp(
-      home: InputPage(),
-      theme: ThemeData.dark().copyWith(
-        primaryColor: Colors.pink,
-        scaffoldBackgroundColor: Colors.pink,
-      ),
-    );
-  }
-}
